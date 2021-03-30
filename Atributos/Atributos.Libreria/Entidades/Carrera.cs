@@ -60,6 +60,10 @@ namespace Atributos.Libreria.Entidades
             }    
 
         }
+        public void Avance()
+        {
+            Console.WriteLine("El total de materias aprobadas es: " + _cantidadAprobadas);
+        }
 
         public void SolicitudTitulo()
         {

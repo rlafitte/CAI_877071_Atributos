@@ -12,8 +12,15 @@ namespace Atributos.Consola
         static void Main(string[] args)
         {
             Carrera C = new Carrera();
+            C.Avance();
+            do
+            {
+                C.AprobarMateria();
+            } while (!C.CarreraFinalizada);
+            C.Avance();
+            C.SolicitudTitulo();
 
-            
+            Console.ReadLine();
         }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Consola\bin\Debug\Atributos.Consola.exe.config
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Consola\bin\Debug\Atributos.Consola.exe
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Consola\bin\Debug\Atributos.Consola.pdb
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Consola\bin\Debug\Atributos.Libreria.dll
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Consola\bin\Debug\Atributos.Libreria.pdb
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Consola\obj\Debug\Atributos.Consola.csprojAssemblyReference.cache
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Consola\obj\Debug\Atributos.Consola.csproj.CoreCompileInputs.cache
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Consola\obj\Debug\Atributos.Consola.csproj.CopyComplete
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Consola\obj\Debug\Atributos.Consola.exe
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Consola\obj\Debug\Atributos.Consola.pdb

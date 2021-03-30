@@ -1,0 +1,6 @@
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Libreria\bin\Debug\Atributos.Libreria.dll
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Libreria\bin\Debug\Atributos.Libreria.pdb
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Libreria\obj\Debug\Atributos.Libreria.csprojAssemblyReference.cache
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Libreria\obj\Debug\Atributos.Libreria.csproj.CoreCompileInputs.cache
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Libreria\obj\Debug\Atributos.Libreria.dll
+C:\Users\renar\Desktop\CAI\TerceraClase\CAI_877071_Atributos\Atributos\Atributos.Libreria\obj\Debug\Atributos.Libreria.pdb
